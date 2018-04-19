@@ -1,0 +1,9 @@
+platform :ios, '8.0'
+target 'XXMProject' do
+use_frameworks!
+# 网络请求
+pod 'Alamofire'
+
+pod 'CYLTabBarController'
+
+end
