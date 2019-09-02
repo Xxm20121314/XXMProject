@@ -24,4 +24,5 @@ class XXMAppDelegate: UIResponder,UIApplicationDelegate{
         window.backgroundColor = UIColor.white
         return window;
     }()
+    //tett
 }
